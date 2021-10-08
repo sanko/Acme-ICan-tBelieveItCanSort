@@ -25,12 +25,12 @@ This module itself is named after [`Algorithm
 
 - "Is this the simplest (and most surprising) sorting algorithm ever?"
 
-    Stanley P. Y. Fung, https://arxiv.org/abs/2110.01111
+    Stanley P. Y. Fung, [https://arxiv.org/abs/2110.01111](https://arxiv.org/abs/2110.01111)
 
-- https://github.com/mattn/i\_cant\_believe\_it\_can
-- https://github.com/theshteves/simplest-sort
-- https://github.com/PCBoyGames/ArrayV-v4.0/blob/main/src/sorts/exchange/UnbelievableSort.java
-- https://github.com/jefflunt/unbelievable-sort
+- [https://github.com/mattn/i\_cant\_believe\_it\_can](https://github.com/mattn/i_cant_believe_it_can)
+- [https://github.com/theshteves/simplest-sort](https://github.com/theshteves/simplest-sort)
+- [https://github.com/PCBoyGames/ArrayV-v4.0/blob/main/src/sorts/exchange/UnbelievableSort.java](https://github.com/PCBoyGames/ArrayV-v4.0/blob/main/src/sorts/exchange/UnbelievableSort.java)
+- [https://github.com/jefflunt/unbelievable-sort](https://github.com/jefflunt/unbelievable-sort)
 
 # LICENSE
 
